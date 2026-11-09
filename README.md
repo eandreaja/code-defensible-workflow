@@ -30,4 +30,4 @@ Adaptado de "Stop Clicking Allow" (Rohan Mistry, Medium, nov 2026), que se apoya
 
 ## Licencia
 
-Pendiente de decidir por la persona dueña del repositorio. Mientras no haya un archivo `LICENSE`, todos los derechos están reservados.
+MIT. Ver `LICENSE`.
